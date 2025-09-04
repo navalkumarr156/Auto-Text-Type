@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap");
+
+body {
+  /* margin: 0; */
+  display: flex;
+  justify-content: center;
+  /* height: 50vh; */
+  align-items: center;
+  background-color: #F1F5F9;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+h1{
+    color: #0F172A;
+}
